@@ -66,3 +66,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Install Optimizely SDK
+
+npm install --save @optimizely/react-sdk
+
+## A/B testing
+
+1 - Feature
+2 - Variables
+3 - Events
+4 - Experiments
+5 - Variations
+6 - Metrics
